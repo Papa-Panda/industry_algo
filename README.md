@@ -1,5 +1,9 @@
 # industry_algo
 
+## Roadmap 0: roadmap of roadmap
+广告算法资料汇总【建设中】 - 广告与算法的文章 - 知乎
+https://zhuanlan.zhihu.com/p/665111976
+
 ## Roadmap 1: Alibaba
 
 我们之前一直聚焦用户的序列行为挖掘，DIN/DIEN/MIMN/SIM等兴趣模型本质上是我们对“用户兴趣”这个物理概念进行的数学化解析，我称之为“物理式先验建模”
